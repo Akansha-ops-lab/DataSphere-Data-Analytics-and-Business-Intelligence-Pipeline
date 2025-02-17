@@ -1,0 +1,6 @@
+Customer_ID,Customer_Name,Product,Purchase_Amount,Purchase_Date,Review
+101,Alice,Laptop,1000,2024-01-10,Excellent
+102,Bob,Smartphone,700,2024-02-15,Good
+103,Charlie,Tablet,400,2024-03-20,Average
+104,David,Laptop,1200,2024-04-05,Poor
+105,Eve,Smartphone,800,2024-05-12,Good
